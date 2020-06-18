@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.js": "/TD-React-Challenge-Test-1/static/js/main.448037d8.chunk.js",
-    "main.js.map": "/TD-React-Challenge-Test-1/static/js/main.448037d8.chunk.js.map",
-    "runtime-main.js": "/TD-React-Challenge-Test-1/static/js/runtime-main.6e66ddff.js",
-    "runtime-main.js.map": "/TD-React-Challenge-Test-1/static/js/runtime-main.6e66ddff.js.map",
-    "static/css/2.6bab1db4.chunk.css": "/TD-React-Challenge-Test-1/static/css/2.6bab1db4.chunk.css",
-    "static/js/2.af9ea668.chunk.js": "/TD-React-Challenge-Test-1/static/js/2.af9ea668.chunk.js",
-    "static/js/2.af9ea668.chunk.js.map": "/TD-React-Challenge-Test-1/static/js/2.af9ea668.chunk.js.map",
-    "index.html": "/TD-React-Challenge-Test-1/index.html",
-    "precache-manifest.4b31d328fbb0efc8e4484ddbb5670e82.js": "/TD-React-Challenge-Test-1/precache-manifest.4b31d328fbb0efc8e4484ddbb5670e82.js",
-    "service-worker.js": "/TD-React-Challenge-Test-1/service-worker.js",
-    "static/css/2.6bab1db4.chunk.css.map": "/TD-React-Challenge-Test-1/static/css/2.6bab1db4.chunk.css.map",
-    "static/js/2.af9ea668.chunk.js.LICENSE.txt": "/TD-React-Challenge-Test-1/static/js/2.af9ea668.chunk.js.LICENSE.txt"
+    "main.js": "/MAISheduleVKBotV2/static/js/main.448037d8.chunk.js",
+    "main.js.map": "/MAISheduleVKBotV2/static/js/main.448037d8.chunk.js.map",
+    "runtime-main.js": "/MAISheduleVKBotV2/static/js/runtime-main.863f99b1.js",
+    "runtime-main.js.map": "/MAISheduleVKBotV2/static/js/runtime-main.863f99b1.js.map",
+    "static/css/2.6bab1db4.chunk.css": "/MAISheduleVKBotV2/static/css/2.6bab1db4.chunk.css",
+    "static/js/2.26a4fafe.chunk.js": "/MAISheduleVKBotV2/static/js/2.26a4fafe.chunk.js",
+    "static/js/2.26a4fafe.chunk.js.map": "/MAISheduleVKBotV2/static/js/2.26a4fafe.chunk.js.map",
+    "index.html": "/MAISheduleVKBotV2/index.html",
+    "precache-manifest.64782849d54375bcb01fed6a429bc18f.js": "/MAISheduleVKBotV2/precache-manifest.64782849d54375bcb01fed6a429bc18f.js",
+    "service-worker.js": "/MAISheduleVKBotV2/service-worker.js",
+    "static/css/2.6bab1db4.chunk.css.map": "/MAISheduleVKBotV2/static/css/2.6bab1db4.chunk.css.map",
+    "static/js/2.26a4fafe.chunk.js.LICENSE.txt": "/MAISheduleVKBotV2/static/js/2.26a4fafe.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.6e66ddff.js",
+    "static/js/runtime-main.863f99b1.js",
     "static/css/2.6bab1db4.chunk.css",
-    "static/js/2.af9ea668.chunk.js",
+    "static/js/2.26a4fafe.chunk.js",
     "static/js/main.448037d8.chunk.js"
   ]
 }
