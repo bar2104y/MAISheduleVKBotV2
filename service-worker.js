@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/MAISheduleVKBotV2/precache-manifest.7ffe4f4c2d36f75f1f70e49bfd9c61aa.js"
+  "/MAISheduleVKBotV2/precache-manifest.e371190de652b0482b7f97246044f12c.js"
 );
 
 self.addEventListener('message', (event) => {
